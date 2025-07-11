@@ -81,4 +81,4 @@ pip install opencv-python numpy
  - Project Report: Report.dox (included)
 
 ## 📄 License
-This project is licensed under the [MIT License] (LICENSE).
+This project is licensed under the [MIT License](LICENSE).
