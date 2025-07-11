@@ -64,7 +64,7 @@ pip install opencv-python numpy
 ### ▶️ Step 3: Launch Notebooks
  - Run gg.ipynb to preprocess the image
  - Run shape.ipynb to detect, classify, and label the shapes
-   💡 Tip: Use Jupyter Notebook or VSCode for best experience.
+     - 💡 Tip: Use Jupyter Notebook or VSCode for best experience.
 
 ## ✅ System Requirements
 ### 🖥️ Hardware
@@ -81,4 +81,4 @@ pip install opencv-python numpy
  - Project Report: Report.dox (included)
 
 ## 📄 License
-This project is licensed under the [MIT license] License.
+This project is licensed under the [MIT License] (LICENSE).
