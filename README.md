@@ -52,7 +52,7 @@ In the sample image shapes.jpg, the system detected:
 ## 🚀 How to Run the Project
 ### 🔧 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/pallavi01bs/ShapeDetectionOpenCV.git  
+git clone https://github.com/Pallavi01bs/ShapeDetectionOpenCV.git  
 cd ShapeDetectionOpenCV
 ```
 
